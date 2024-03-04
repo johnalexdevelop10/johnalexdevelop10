@@ -29,3 +29,4 @@ Estoy abierta a oportunidades emocionantes en el ámbito de análisis de datos. 
 Conocimientos
 
 Sql|| React|| JavaScript|| C# ||GIT GitHub|| JAVA|| MySQL || Power Bi || Python || React || JavaScript || Spring Boot || AZURE || AWS || ReactNative || Git || GitHub ||
+<a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
