@@ -12,6 +12,10 @@ Además, mis habilidades técnicas incluyen:
 
 📌 Python: Conocimientos para análisis de datos y automatización de procesos.
 
+📌 Desarrollar scripts en Python 🐍
+
+📌 Conocimientos de FastAPI
+
 📌 Power BI: Habilidad en visualización de datos y creación de informes interactivos.
 
 📌 Bases de datos relacionales: Diseño y consulta.
